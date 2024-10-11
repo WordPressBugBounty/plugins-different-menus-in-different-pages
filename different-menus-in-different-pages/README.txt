@@ -60,9 +60,10 @@ https://youtu.be/z6i_LVmUHqo
 You can buy the premium from [here](https://myrecorp.com/product/different-menus-in-different-pages/?clk=wp&a=readme)
 
 = More plugins you may like =
+* [Export WP Page to Static HTML/CSS](https://wordpress.org/plugins/export-wp-page-to-static-html/&clk=wp)
+* [Advanced Menu Icons](https://wordpress.org/plugins/advanced-menu-icons/?r=export-html&clk=wp)
 * [AI Content Writing Assistant (Content Writer, ChatGPT, Image Generator) All in One](https://wordpress.org/plugins/ai-content-writing-assistant/)
 https://www.youtube.com/watch?v=HvOkfBs7qss
-* [Export WP Page to Static HTML/CSS](https://wordpress.org/plugins/export-wp-page-to-static-html/&clk=wp)
 * [Pipe ReCaptcha](https://wordpress.org/plugins/pipe-recaptcha/)
 * [Divi MailChimp Extension](https://wordpress.org/plugins/recorp-divi-mailchimp-extension/?clk=wp)
 * [Menu import & export pro](https://myrecorp.com/product/menu-import-and-export-pro/?r=export-html&clk=wp)
