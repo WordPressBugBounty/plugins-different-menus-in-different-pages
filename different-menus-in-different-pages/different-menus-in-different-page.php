@@ -16,7 +16,7 @@
  * Plugin Name:       Different Menus in Different Pages
  * Plugin URI:        https://myrecorp.com
  * Description:       This plugin can set different menus in different post, pages, templates magically. You can set different menus in specific devices (android, iPhone, mobile and tablet) and it also supports in all theme like charm.
- * Version:           2.4.3
+ * Version:           2.4.5
  * Author:            ReCorp
  * Author URI:        https://myrecorp.com
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if (!function_exists('run_different_menus_in_different_page_pro')){
      * Currently plugin version.
      * Rename this for your plugin and update it as you release new versions.
      */
-    define( 'DIFFERENT_MENUS_FOR_DIFFERENT_PAGE_VERSION', '2.4.3' );
+    define( 'DIFFERENT_MENUS_FOR_DIFFERENT_PAGE_VERSION', '2.4.5' );
 
 
     /**
